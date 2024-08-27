@@ -5,7 +5,7 @@
 | variables              | x                    | §3.1                |
 | functions              | x                    | §3.3                |
 | if                     | x                    | §3.5                |
-| primitive_types        | o                    | §3.2, §4.3          |
+| primitive_types        | x                    | §3.2, §4.3          |
 | vecs                   | o                    | §8.1                |
 | move_semantics         | o                    | §4.1-2              |
 | structs                | o                    | §5.1, §5.3          |
