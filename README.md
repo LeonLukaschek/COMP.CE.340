@@ -3,7 +3,7 @@
 | Exercise               | Exercise done        | Book Chapter        |
 | ---------------------- | -------------------  | -------------------- |
 | variables              | x                    | §3.1                |
-| functions              | o                    | §3.3                |
+| functions              | x                    | §3.3                |
 | if                     | o                    | §3.5                |
 | primitive_types        | o                    | §3.2, §4.3          |
 | vecs                   | o                    | §8.1                |
