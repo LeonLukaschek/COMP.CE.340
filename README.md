@@ -7,7 +7,7 @@
 | if                     | x                    | §3.5                |
 | primitive_types        | x                    | §3.2, §4.3          |
 | vecs                   | x                    | §8.1                |
-| move_semantics         | o                    | §4.1-2              |
+| move_semantics         | x                    | §4.1-2              |
 | structs                | o                    | §5.1, §5.3          |
 | enums                  | o                    | §6, §18.3           |
 | strings                | o                    | §8.2                |
