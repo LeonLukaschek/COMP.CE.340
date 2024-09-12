@@ -9,9 +9,9 @@
 | vecs                   | x                    | §8.1                |
 | move_semantics         | x                    | §4.1-2              |
 | structs                | x                    | §5.1, §5.3          |
-| enums                  | o                    | §6, §18.3           |
-| strings                | o                    | §8.2                |
-| modules                | o                    | §7                  |
+| enums                  | x                    | §6, §18.3           |
+| strings                | x                    | §8.2                |
+| modules                | x                    | §7                  |
 | hashmaps               | o                    | §8.3                |
 | options                | o                    | §10.1               |
 | error_handling         | o                    | §9                  |
