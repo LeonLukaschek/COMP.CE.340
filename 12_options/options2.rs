@@ -26,10 +26,6 @@ mod tests {
 
         let mut cursor = range;
 
-        // TODO: Make this a while-let statement. Remember that `Vec::pop()`
-        // adds another layer of `Option`. You can do nested pattern matching
-        // in if-let and while-let statements.
-
 
         while let Some(integer) = optional_integers.pop(){
             if let Some(inner) = integer{
@@ -39,10 +35,6 @@ mod tests {
             
         }
 
-        // integer = optional_integers.pop() {
-        //     assert_eq!(integer, cursor);
-        //     cursor -= 1;
-        // }
 
         assert_eq!(cursor, 0);
     }
