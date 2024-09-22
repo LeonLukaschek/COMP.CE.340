@@ -15,13 +15,13 @@
 | hashmaps               | o                    | §8.3                |
 | options                | x                    | §10.1               |
 | error_handling         | x                    | §9                  |
-| generics               | o                    | §10                 |
-| traits                 | o                    | §10.2               |
-| lifetimes              | o                    | §10.3               |
+| generics               | x                    | §10                 |
+| traits                 | x                    | §10.2               |
+| lifetimes              | x                    | §10.3               |
 | tests                  | o                    | §11.1               |
-| iterators              | o                    | §13.2-4             |
+| iterators              | x                    | §13.2-4             |
 | smart_pointers         | o                    | §15, §16.3          |
 | threads                | o                    | §16.1-3             |
 | macros                 | o                    | §19.5               |
-| clippy                 | o                    | §21.4               |
+| clippy                 | x                    | §21.4               |
 | conversions            | o                    | n/a                 |
